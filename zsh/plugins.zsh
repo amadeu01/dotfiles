@@ -2,7 +2,7 @@ plugins=(
   git
   archlinux
   systemd
-  sudo -S -p ''
+  sudo
   colored-man-pages
   history-substring-search
   zsh-autosuggestions
